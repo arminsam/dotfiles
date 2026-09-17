@@ -1,0 +1,6 @@
+# Copy to identity.nix (or run ./rebuild.sh once — it creates identity.nix for you).
+# identity.nix is gitignored so each Mac can keep its own host/user.
+{
+  hostName = "mac";
+  userName = "armin";
+}

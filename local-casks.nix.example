@@ -1,0 +1,7 @@
+# Copy to local-casks.nix for machine-private casks (gitignored).
+# Keep password managers, hardware wallets, and other personal apps here
+# so they are not published with the flake.
+[
+  # "1password"
+  # "ledger-wallet"
+]

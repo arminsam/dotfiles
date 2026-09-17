@@ -1,0 +1,8 @@
+# nix build output symlink
+result
+
+# Per-machine host/user (created by ./rebuild.sh on first run)
+identity.nix
+
+# Machine-private Homebrew casks (password managers, wallets, etc.)
+local-casks.nix
