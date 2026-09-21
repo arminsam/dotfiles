@@ -46,6 +46,7 @@ in
     # Public / everyday casks. Sensitive apps go in local-casks.nix (gitignored).
     casks = [
       "wezterm"
+      "obsidian"
       "sublime-text"
       "jordanbaird-ice"   # menu bar manager (hide/show items)
       "stats"             # system monitor (CPU/memory/network in menu bar)
